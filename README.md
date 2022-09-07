@@ -43,6 +43,7 @@ beagle, and many more.
 There are around 10,000+ images in the training set (these images have labels).
 There are around 10,000+ images in the test set (these images have no labels, because we'll want to predict them).
 
-![Dawg Please 1](https://user-images.githubusercontent.com/100320688/188893157-6d9df6ab-3384-4baa-85dc-94bef541327e.png)
+
 ![Dawg Please 2](https://user-images.githubusercontent.com/100320688/188893741-9ca56476-b6f0-4c08-b326-8d2ce4fca0a5.png)
+![Dawg Please 1](https://user-images.githubusercontent.com/100320688/188893157-6d9df6ab-3384-4baa-85dc-94bef541327e.png)
 
